@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\bin\Debug\net6.0-windows\zadanieSM.exe
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\bin\Debug\net6.0-windows\zadanieSM.deps.json
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\bin\Debug\net6.0-windows\zadanieSM.runtimeconfig.json
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\bin\Debug\net6.0-windows\zadanieSM.dll
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\bin\Debug\net6.0-windows\zadanieSM.pdb
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.Form1.resources
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.dll
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\refint\zadanieSM.dll
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.pdb
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\zadanieSM.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\zadanieSM\zadanieSM\obj\Debug\net6.0-windows\ref\zadanieSM.dll
